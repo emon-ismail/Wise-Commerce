@@ -120,6 +120,7 @@
                     });
                 });
             }
+            
 
             $('.popup-ajax').magnificPopup({
                 type: 'ajax',
